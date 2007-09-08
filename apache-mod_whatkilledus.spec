@@ -1,7 +1,7 @@
 Summary:	Tracks the current request and logs active requests when a child process crashes
 Name:		apache-mod_whatkilledus
 Version:	0
-Release:	%mkrel 4
+Release:	%mkrel 5
 Group:		System/Servers
 License:	Apache License
 Group:		System/Servers
