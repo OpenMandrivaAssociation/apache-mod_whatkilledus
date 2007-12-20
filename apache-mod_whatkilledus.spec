@@ -18,6 +18,7 @@ Requires(pre):	apache-modules >= 2.2.0
 Requires:	apache-conf >= 2.2.0
 Requires:	apache-base >= 2.2.0
 Requires:	apache-modules >= 2.2.0
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 mod_whatkilledus is an experimental module for Apache httpd 2.x which
