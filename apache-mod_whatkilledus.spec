@@ -5,7 +5,7 @@ Release:	%mkrel 14
 Group:		System/Servers
 License:	Apache License
 Group:		System/Servers
-URL:		http://www.apache.org
+URL:		https://www.apache.org
 # http://people.apache.org/~trawick/mod_whatkilledus.c
 Source0: 	mod_whatkilledus.c.bz2
 Source1: 	test_char.h.bz2
